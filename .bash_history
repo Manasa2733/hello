@@ -18,3 +18,4 @@ sudo systemctl daemon-reload
 service jenkins start
 cat /var/lib/jenkins/secrets/initialAdminPassword
 sudo su -
+service jenkins start
